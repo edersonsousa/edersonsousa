@@ -1,7 +1,7 @@
 {
-  "name": "react-portfolio-dev",
+  "name": "edersonsousa",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.6",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
