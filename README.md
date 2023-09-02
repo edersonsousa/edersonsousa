@@ -21,9 +21,9 @@
         <img src="https://img.shields.io/twitch/status/vcwild?style=social"
              alt="Twitch Status">
     </a>
-    <a href="https://wakatime.com/@edersonsousa">
+    <!-- <a href="https://wakatime.com/@edersonsousa">
         <img src="https://wakatime.com/badge/user/70b4fcb6-ef30-442e-a3ba-7f6b57d6f7e4.svg?style=social"
-             alt="Wakatime">
+             alt="Wakatime">    -->
     </a>
 </div>
 
@@ -51,10 +51,10 @@ Graduando em Engenharia da Computação e Tecnólogo em Análise e Desenvolvimen
 
 <div>
     <div align="right" style="margin:auto">
-        <a href="https://wakatime.com/@edersonsousa">
+         <!--<a href="https://wakatime.com/@edersonsousa">
             <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=edersonsousa&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default"
                  alt="Wakatime stats" align="right" />
-        </a>
+        </a> -->
     </div>
 
 ... 
