@@ -14,7 +14,7 @@
 
 <div align="center">
     <a href="https://twitter.com/intent/follow?screen_name=edersonsousa">
-        <img src="https://img.shields.io/twitter/follow/vcwild?style=social&logo=twitter"
+        <img src="https://img.shields.io/twitter/follow/edersonsousa?style=social&logo=twitter"
             alt="follow on Twitter">
     </a>
     <a href="https://www.twitch.tv/EdRocha3">
