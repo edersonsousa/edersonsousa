@@ -45,8 +45,6 @@
 
 Olá!! me chamo [**@edersonsousa**](https://twitter.com/edersonsousa) :wave:😊
 
-Uma combinação única de habilidades técnicas e visão de negócios possibilita uma posição estratégica para impulsionar a transformação digital e o progresso tecnológico nas organizações em que atua.
-
 Graduando em Engenharia da Computação e Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
 <div>
