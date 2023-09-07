@@ -1,7 +1,7 @@
 <h1 align="center"> EdersoN Sousa </h1>
     
 <div align="center">
-<b>Analista Desenvolvedor | Open source enthusiast | 🐧🏳️‍🏴🚩</b>
+<b>Analista Desenvolvedor | 🐧 🚲 </b>
 <br>
 <br>
 
@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-    <a href="https://twitter.com/intent/follow?screen_name=edersonsousa">
+   <!-- <a href="https://twitter.com/intent/follow?screen_name=edersonsousa">
         <img src="https://img.shields.io/twitter/follow/edersonsousa?style=social&logo=twitter"
             alt="follow on Twitter">
     </a>
