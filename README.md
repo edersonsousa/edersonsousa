@@ -1,7 +1,7 @@
 <h1 align="center"> EdersoN Sousa </h1>
     
 <div align="center">
-<b>Analista Desenvolvedor | 🐧 🚲 </b>
+<b>Analista Desenvolvedor | 🐧 🚲... </b>
 <br>
 <br>
 
