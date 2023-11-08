@@ -27,8 +27,8 @@
     </a>
 </div>
 
-<details open>
-<summary>About me 👈😊</summary>
+
+<summary></summary>
 
 ---
 
@@ -59,7 +59,7 @@ Graduando em Engenharia da Computação e Tecnólogo em Análise e Desenvolvimen
  
 
 </div>
-</details>
+
 
 <br/>
 
