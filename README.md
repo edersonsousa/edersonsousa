@@ -27,7 +27,7 @@
     </a>
 </div>
 
-<details closed>
+<details open>
 <summary>About me 👈😊</summary>
 
 ---
