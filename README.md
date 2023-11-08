@@ -5,11 +5,11 @@
 <br>
 <br>
 
-<blockquote>
+
     <p><i>
         Uma combinação única de habilidades técnicas e visão de negócios que possibilita uma posição estratégica para impulsionar a transformação digital e o progresso tecnológico nas organizações em que atua. ⚛✨🎓🚲
     </i></p>
-</blockquote>
+
 </div>
 
 <div align="center">
