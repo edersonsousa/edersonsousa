@@ -42,7 +42,7 @@
 </div>
 
 
-:wave:😊 Olá!! me chamo [**@edersonsousa**](https://twitter.com/edersonsousa) 
+
 
 Graduando em Engenharia da Computação e Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
