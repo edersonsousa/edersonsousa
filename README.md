@@ -2,10 +2,10 @@
 
 <!-- ![Snake animation](https://github.com/edersonsousa/edersonsousa/blob/output/github-contribution-grid-snake.svg) -->
 
-<h1 align="center"> EdersoN Sousa </h1>
+<h1 align="center"> Ed </h1>
     
 <div align="center">
-<b>Graduando em Engenharia da Computação e Tecnólogo em Análise e Desenvolvimento de Sistemas. | 🐧 🚲... </b>
+<b>Analista Desenvolvedor | 🐧 🚲... </b>
 <br>
 <br>
 
