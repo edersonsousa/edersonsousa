@@ -33,7 +33,7 @@
 
 
 
-<i>Graduando em Engenharia da Computação e Tecnólogo em Análise e Desenvolvimento de Sistemas</i>
+
 
 
 <div align="right" style="margin:auto">
@@ -56,9 +56,7 @@
             <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=edersonsousa&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default"
                  alt="Wakatime stats" align="right" />
         </a> -->
-    </div>
-
-... 
+    </div> 
  
 
 </div>
@@ -66,7 +64,7 @@
 
 <br/>
 
----
+<i>Graduando em Engenharia da Computação e Tecnólogo em Análise e Desenvolvimento de Sistemas</i>
 
 <div align="center">
 
