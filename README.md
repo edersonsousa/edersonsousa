@@ -1,6 +1,6 @@
 
 
-
+![Snake animation](https://github.com/edersonsousa/edersonsousa/blob/output/github-contribution-grid-snake.svg)
 
 <h1 align="center"> EdersoN Sousa </h1>
     
@@ -81,4 +81,4 @@ Graduando em Engenharia da Computação e Tecnólogo em Análise e Desenvolvimen
 
 </div>
 
-![Snake animation](https://github.com/edersonsousa/edersonsousa/blob/output/github-contribution-grid-snake.svg)
+
