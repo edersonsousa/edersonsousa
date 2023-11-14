@@ -1,6 +1,6 @@
 
 
-![Snake animation](https://github.com/edersonsousa/edersonsousa/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/edersonsousa/edersonsousa/blob/output/github-contribution-grid-snake.svg) -->
 
 <h1 align="center"> EdersoN Sousa </h1>
     
@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-   <!-- <a href="https://twitter.com/intent/follow?screen_name=edersonsousa">
+    <a href="https://twitter.com/intent/follow?screen_name=edersonsousa">
         <img src="https://img.shields.io/twitter/follow/edersonsousa?style=social&logo=twitter"
             alt="follow on Twitter">
     </a>
@@ -27,7 +27,7 @@
     </a>
     <!-- <a href="https://wakatime.com/@edersonsousa">
         <img src="https://wakatime.com/badge/user/70b4fcb6-ef30-442e-a3ba-7f6b57d6f7e4.svg?style=social"
-             alt="Wakatime">    -->
+             alt="Wakatime">   
     </a>
 </div>
 
