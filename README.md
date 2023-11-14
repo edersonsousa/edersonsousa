@@ -1,3 +1,7 @@
+
+
+
+
 <h1 align="center"> EdersoN Sousa </h1>
     
 <div align="center">
@@ -66,6 +70,7 @@ Graduando em Engenharia da Computação e Tecnólogo em Análise e Desenvolvimen
 
 <div align="center">
 
+
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/edersonsousa)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edersonssousa/)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/EdRocha3)
@@ -75,3 +80,4 @@ Graduando em Engenharia da Computação e Tecnólogo em Análise e Desenvolvimen
 -->
 
 </div>
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
