@@ -64,7 +64,7 @@
 
 <br/>
 
-<i>Graduando em Engenharia da Computação e Tecnólogo em Análise e Desenvolvimento de Sistemas</i>
+
 
 <div align="center">
 
@@ -78,5 +78,6 @@
 -->
 
 </div>
+<i>Graduando em Engenharia da Computação e Tecnólogo em Análise e Desenvolvimento de Sistemas</i>
 
 
