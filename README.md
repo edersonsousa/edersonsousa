@@ -80,4 +80,5 @@ Graduando em Engenharia da Computação e Tecnólogo em Análise e Desenvolvimen
 -->
 
 </div>
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
+[![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
