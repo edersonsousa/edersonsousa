@@ -33,7 +33,7 @@
 
 
 
----
+<i>Graduando em Engenharia da Computação e Tecnólogo em Análise e Desenvolvimento de Sistemas</i>
 
 
 <div align="right" style="margin:auto">
