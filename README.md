@@ -1,9 +1,9 @@
 
 
 <!-- ![Snake animation](https://github.com/edersonsousa/edersonsousa/blob/output/github-contribution-grid-snake.svg) -->
-
-<h1 aling="center">Ed </h1>
-    
+<div align="center">
+<h1>Ed </h1>
+</div>
 <div align="center">
 <b>Analista Desenvolvedor | 🐧 🚲... </b>
 <br>
