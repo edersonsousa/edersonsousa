@@ -16,20 +16,7 @@
 </blockquote>
 </div>
 
-<div align="center">
-    <a href="https://twitter.com/intent/follow?screen_name=edersonsousa">
-        <img src="https://img.shields.io/twitter/follow/edersonsousa?style=social&logo=twitter"
-            alt="follow on Twitter">
-    </a>
-    <a href="https://www.twitch.tv/EdRocha3">
-        <img src="https://img.shields.io/twitch/status/vcwild?style=social"
-             alt="Twitch Status">
-    </a>
-    <!-- <a href="https://wakatime.com/@edersonsousa">
-        <img src="https://wakatime.com/badge/user/70b4fcb6-ef30-442e-a3ba-7f6b57d6f7e4.svg?style=social"
-             alt="Wakatime">   
-    </a>
-</div>
+
 
 
 
