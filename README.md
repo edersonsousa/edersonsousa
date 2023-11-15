@@ -2,7 +2,7 @@
 
 <!-- ![Snake animation](https://github.com/edersonsousa/edersonsousa/blob/output/github-contribution-grid-snake.svg) -->
 
-<a href="https://edersonsousa.github.io/"><h1> Ed </h1></a>
+<h1><center> Ed </center></h1>
     
 <div align="center">
 <b>Analista Desenvolvedor | 🐧 🚲... </b>
@@ -68,4 +68,6 @@
 <div align="center">
 <center><i>Graduando em Engenharia da Computação e Tecnólogo em Análise e Desenvolvimento de Sistemas</i></center></p>
 </div>
+
+<a href="https://edersonsousa.github.io/">edersonsousa.github.io</a>
 
