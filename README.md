@@ -2,7 +2,7 @@
 
 <!-- ![Snake animation](https://github.com/edersonsousa/edersonsousa/blob/output/github-contribution-grid-snake.svg) -->
 
-<a href="https://edersonsousa.github.io/"><h1 align="center"> Ed </h1></a>
+<a href="https://edersonsousa.github.io/"><h1> Ed </h1></a>
     
 <div align="center">
 <b>Analista Desenvolvedor | 🐧 🚲... </b>
